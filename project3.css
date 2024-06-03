@@ -1,0 +1,52 @@
+sec1{
+    color: antiquewhite;
+}
+.h2 {
+    color: black;
+}
+button{
+    background-color: white;
+    border: 1 px  solid white;
+    color: black;
+   
+}
+form {
+    border: solid  1px white;
+    height: 800px;
+    width: 40%;
+    margin: auto;
+
+}
+.contact {
+    
+    background-color: rgb(156, 218, 223);
+    border: 1 px  solid white;
+    color: black;
+}
+.cards {
+    
+    display:flex;
+    justify-content: space-evenly; 
+    
+    padding: 20px;
+}
+
+.cards-inside {
+    font-size: large;
+    width: 20%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 50px;
+
+}
+.para{
+    font-size: larger;
+}
+
+.footer{
+    /* background-color: rgb(232, 233, 247);; */
+    height: 20rem; width: 40rem;
+    /* border: 1px solid black; */
+    padding-left: 30px;
+    font-size: large;
+}
